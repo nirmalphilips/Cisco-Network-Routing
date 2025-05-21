@@ -110,7 +110,7 @@ See [REQUIREMENTS.md](./Docs/Requirements.md) for a detailed breakdown of:
 
 ## ⚠️ Disclaimer
 
-**This project has been developed as part of the Module Assesment (Network Routing Management) Coursework for the programme _Computer Engineering BEng (Hons)_ (Academic Year 2024/25) at the University of Greenwich.**
+**This project has been developed as part of the Module Assessment (Network Routing Management) Coursework for the programme _Computer Engineering BEng (Hons)_ (Academic Year 2024/25) at the University of Greenwich.**  
 
 **All credits must be given to the creators and the University of Greenwich.**
 
