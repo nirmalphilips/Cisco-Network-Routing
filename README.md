@@ -74,7 +74,7 @@ See [REQUIREMENTS.md](./Docs/Requirements.md) for a detailed breakdown of:
 
 ## Logical Topology Diagrams
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Orange Scenario</strong></td>
     <td align="center"><strong>Red Scenario</strong></td>
